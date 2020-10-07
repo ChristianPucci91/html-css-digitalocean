@@ -1,9 +1,10 @@
  /* Regole di debug */
 
-img {
+/* img {
   max-width: 100%;
   height: auto;
-}
+} */
+
 
 /* regole di debug */
 [class*="col-"] {
@@ -14,9 +15,20 @@ img {
 }
 
 /* .row .col-6 div  */
-[class*="col-"] > .row > [class*="col-"]{
+[class*="col-"] > [class*="col-"]{
   background-color: salmon;
   border-color: #fff;
 }
-
 /* fine regole di debug */
+
+
+/* Regole section 1 */
+#bg_section1 {
+  background-image:url(../img/home.jpg)
+}
+
+/* Regole section 2 */
+
+#bg_section2 {
+  background-color: lightgrey;
+}
