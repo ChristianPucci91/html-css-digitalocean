@@ -32,3 +32,13 @@
 #bg_section2 {
   background-color: lightgrey;
 }
+
+/* Regole section 4  */
+
+#bg_section4 {
+  background-color: lightgrey;
+}
+
+#carousel img {
+  max-width: 50%;
+}
