@@ -24,7 +24,44 @@
 
 /* Regole section 1 */
 #bg_section1 {
-  background-image:url(../img/home.jpg)
+  background-image:url(../img/home.jpg);
+  background-size: cover;
+}
+
+.text_section_1 h1 {
+  font-size: 60px;
+  color:white;
+}
+
+.text_section_1 p {
+  font-size: 24px;
+  color:white;
+}
+
+.sign_in {
+  text-align: center;
+  width: 80%;
+  margin:auto;
+  background-color: white;
+  padding:20px 10px 20px 10px;
+}
+
+.sign_in h1{
+  font-size: 30px;
+}
+
+.sign_in h2 {
+  color:blue;
+}
+
+.sign_in button {
+  width: 100%;
+}
+
+.img_google {
+  width: 15px;
+  float:left;
+  padding-top: 3px;
 }
 
 /* Regole section 2 */
