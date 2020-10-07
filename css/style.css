@@ -35,10 +35,37 @@
 
 /* Regole section 4  */
 
-#bg_section4 {
+#bg_section4_7 {
   background-color: lightgrey;
 }
-
+  /* Regole debug */
 #carousel img {
   max-width: 50%;
+}
+/* fine regole debug */
+
+/* regole section 6 */
+
+#bg_section6 {
+  background-color: blue;
+}
+
+/* #ms_border {
+  border-bottom: 1px;
+  border-color:black;
+} */
+
+/* regole section 7 */
+
+
+/* regole footer section 1 */
+
+#bg_footer_section1 {
+  background-color: blue;
+}
+
+/* regoler footer section 2 */
+
+#bg_footer_section2 {
+  background-color: darkblue;
 }
