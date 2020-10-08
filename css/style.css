@@ -262,6 +262,7 @@
 
 #bg_section6 a {
   color:#00d7d2;
+  float:right;
 }
 
 #border_section6 {
@@ -380,6 +381,13 @@
   }
   .bg_carousel2 {
     padding:10px 20px;
-
+  }
+  #bg_section6 a {
+    float:right;
+    font-size: 10px;
+    margin-top: 2px;
+  }
+  #bg_section h6 {
+    font-size: 8px;
   }
 }
